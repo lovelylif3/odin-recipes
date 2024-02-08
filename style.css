@@ -1,9 +1,20 @@
 .mainheader {
     text-align: center; 
     background-color: aquamarine;
-    font-weight: bold; 
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif; 
 }
 
-.homebutton{
+.head{
     text-align: center;
+    background-color: aquamarine;
+}
+
+p,
+li{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    font-size: x-large;
 }
