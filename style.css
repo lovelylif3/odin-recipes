@@ -38,3 +38,8 @@ h2{
     color:aliceblue;
     margin: 4px;
 }
+
+.recipe-image {
+    margin: auto;
+    display: block;
+}
