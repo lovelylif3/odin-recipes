@@ -19,3 +19,8 @@ li{
 h2{
     font-size: x-large;
 }
+
+.recipes {
+    display: block;
+    margin: auto;
+}
