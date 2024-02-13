@@ -5,10 +5,14 @@ html {
 
 .mainheader {
     text-align: center; 
-    background-color: aquamarine;
+    color: white;
+    background-color: #3d0099;
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
-    margin: 25px auto; 
+    margin: 25px auto;
+    width: 600px;
+    padding: 15px;
+
 }
 
 p,
@@ -20,7 +24,11 @@ h2{
     font-size: x-large;
 }
 
-.recipes {
+.link-card {
+    width: 250px;
     display: block;
-    margin: auto;
+    margin: 0 auto;
+    text-align: center;
+    background-color: blueviolet;
+    padding: auto;
 }
